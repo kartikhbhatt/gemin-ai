@@ -1,11 +1,11 @@
 // import React from "react";
 import "./App.css";
-import SideBar from "./components/Sidebar/Sidebar";
+import Sidebar from "./components/Sidebar/Sidebar";
 
 function App() {
    return (
       <>
-         <SideBar />
+         <Sidebar />
          <h1>hello there</h1>
       </>
    );
