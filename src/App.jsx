@@ -1,12 +1,13 @@
 // import React from "react";
 import "./App.css";
 import Sidebar from "./components/Sidebar/Sidebar";
+import Main from "./components/Main/Main";
 
 function App() {
    return (
       <>
          <Sidebar />
-         <h1>hello there</h1>
+         <Main />
       </>
    );
 }
